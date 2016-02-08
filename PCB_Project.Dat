@@ -1,0 +1,16 @@
+﻿Field=Comment~String~Comment~108|Field=Description~String~Description~294|Field=Designator~String~Designator~178|Field=Footprint~String~Footprint~181|Field=Quantity~Integer~Quantity~68|Field=Value~String~Value~274|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\user\Desktop\dsPIC33FJ128GP804-development-board\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~26|ReportField=ReportTime~13:45:33|ReportField=ReportDate~8.2.2016|ReportField=ReportDateTime~8.2.2016 13:45:33|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Matej Gomboc|ReportField=CheckedBy~Matej Gomboc|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~8.2.2016|ReportField=CurrentTime~13:37:27|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\user\Desktop\dsPIC33FJ128GP804-development-board\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~Matej Gomboc|ReportField=Engineer~Matej Gomboc|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~8.2.2016|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~1.0|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~dsPIC33FJ128GP804 development board|ReportField=VersionControl_RevNumber~1.0|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~C:\Users\user\Desktop\dsPIC33FJ128GP804-development-board\PCB_Project.PrjPcb
+ADM7150|800 mA Ultralow Noise,  High PSRR, RF Linear Regulator|VR1|ADM7150_SOIC8|1|
+Aluminium|Aluminium Capacitor|C3|Panasonic Size D8|1|100uF
+C0603|Ceramic Capacitor|C6, C7, C8, C9, C11, C12, C13, C14|0603_HandSoldering|8|100nF, 100nF, 100nF, 100nF, 22pF, 22pF, 22pF, 22pF
+C0805|Ceramic Capacitor|C4, C5|C0805|2|1uF
+dsPIC33FJ128GP804|dsPIC 40 MIPS|U1|dsPIC33FJ128GP804_TQFP44|1|
+i0603|Inductor|L1|0603_HandSoldering|1|BLM18TG102TN1D
+LED 0603|SMD LED 0603|D1|0603_LED|1|
+Left Header|Header, 17-Pin, Dual row|P1|HDR2X17|1|17X2
+R0603|Resistor|R1, R2|0603_HandSoldering|2|10K, 1K
+Right Header|Header, 17-Pin, Dual row|P2|HDR2X17|1|17X2
+SW-SPST|KSR221G LFS Tactile Switch|S1|KSR221G_LFS_Tactile_Switch|1|KSR221G LFS
+Tantal B|Tantalum Capacitor|C1, C2, C10|AVX-CAPC3528_V|3|10uF
+USB_mini_B|USB 2.0 mini B receptacle|J1|USB mini B receptacle|1|
+XTAL|RALTRON  R26-32.768- 12.5  CRYSTAL|Y2|Raltron R26-32.768- 12.5  CRYSTAL|1|32.768KHZ
+XTAL|TXC  7A-20.000MAAJ-T  XTAL|Y1|TXC  7A-20.000MAAJ-T  XTAL|1|20MHz
